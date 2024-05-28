@@ -1,0 +1,74 @@
+mother, Kathie, Alice
+father, Mecheal, Alice
+mother, Kathie, Tony
+father, Mecheal, Tony
+male, Tony
+female, Alice
+female, Kathie
+male, Mecheal
+mother, Sali, Tom
+father, Donald, Tom
+mother, Sali, Christin
+father, Donald, Christin
+male ,Donald
+female, Christin
+male, Tom
+female, Sali
+mother, Alice, Bob
+father, Tom, Bob
+mother, Alice, Mari
+father, Tom, Mari
+mother, Alice, Joey
+father, Tom, Joey
+male, Bob
+female, Mari
+male, Joey
+male, David
+father, Bob, George
+mother, Mari, David
+father, Joey, Jennifer
+male, George
+male, David
+female, Jennifer
+mother, Cortney, Hana
+father, Arther, Hana
+mother, Cortney, Chandler
+father, Arther, Chandler
+male, Chandler
+female, Cortney
+male, Arther
+mother, Emma, Mike
+father, Carl, Mike
+mother, Emma, Suzan
+father, Carl, Suzan
+female, Suzan
+male, Carl
+female, Emma
+mother, Hana, Walt
+father, Mike, Walt
+mother, Hana, Jessica
+father, Mike, Jessica
+mother, Hana, Sophia
+father, Mike, Sophia
+male, Mike
+male, Walt
+female, Hana
+female, Jessica
+female, Sophia
+husband, Joey, Sophia
+mother, Sophia, Jennifer
+mother, Liza, Ross
+father, Jack, Ross
+mother, Liza, Sara
+father, Jack, Sara
+male, Jack
+male, Ross
+female, Liza
+female, Sara
+husband, Joey, Liza
+mother, Liza, Steven
+father, Joey, Steven
+mother, Liza, Isec
+father, Joey, Isec
+mother, Liza, Lana
+father, Joey, Lana
