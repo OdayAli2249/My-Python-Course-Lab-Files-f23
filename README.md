@@ -12,7 +12,7 @@ The curriculum is designed to be comprehensive and engaging, featuring various e
 
 The course is divided into six main chapters, each focusing on different aspects of Python programming:
 
-1. **Basic Settings**: 
+1. **Basics**: 
     - Topics: Data types, loops, control commands, conditions.
     - Objective: Introduce the fundamental building blocks of Python programming.
     
