@@ -1,6 +1,6 @@
 # Python Language Course Repository
 
-Welcome to the Python Language Course repository! This repository contains materials from a free, voluntary Python course that was organized and taught at [Your University Name]. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.
+Welcome to the Python Language Course repository! This repository contains materials from a free, voluntary Python course that was organized and taught at information technology engineering, damascus university. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.
 
 ## Purpose
 
