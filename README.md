@@ -37,10 +37,12 @@ The course is divided into six main chapters, each focusing on different aspects
     - Objective: Offer a glimpse into AI and its applications using Python.
 
 ## Screenshots:
+<div style='display:flex;'>
 <img src="images/image1.png" alt="Smaller" width="300"/>
 <img src="images/image2.png" alt="Smaller" width="300"/>
 <img src="images/image3.png" alt="Smaller" width="300"/>
 <img src="images/image4.png" alt="Smaller" width="300"/>
 <img src="images/image5.png" alt="Smaller" width="300"/>
+</div>
 
 
